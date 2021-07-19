@@ -142,7 +142,7 @@ export default {
       }
     },
     open() {
-      console.log("socket连接成功")
+      // console.log("socket连接成功")
     },
     error() {
       // console.log("连接错误")
