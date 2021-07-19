@@ -1,0 +1,1 @@
+export const operateMixins = require('./opreate').default;
