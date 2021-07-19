@@ -145,7 +145,7 @@ export default {
       console.log("socket连接成功")
     },
     error() {
-      console.log("连接错误")
+      // console.log("连接错误")
     },
     getMessage(msg) {
       let data = msg.data
